@@ -1,0 +1,7 @@
+{
+  "name": "Vaani: AI Voice Translator",
+  "description": "A real-time voice translator and assistant for Indian languages and English. Speak, translate, and chat seamlessly with advanced AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
